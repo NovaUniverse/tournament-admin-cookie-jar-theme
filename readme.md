@@ -4,7 +4,9 @@
 
   # 🐈 Tournament Admin - *Cat Theme*
 
-  <img width="200px" src="https://api.devgoldy.me/stash/neko_cat_tras.png">
+  <a href="https://api.devgoldy.me/stash/cat.css">
+    <img width="200px" src="https://api.devgoldy.me/stash/neko_cat_tras.png">
+  </a>
   
   ```javascript
   applyCustomTheme("https://api.devgoldy.me/stash/cat.css");
