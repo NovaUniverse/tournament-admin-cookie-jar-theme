@@ -12,6 +12,8 @@
   applyCustomTheme("https://api.devgoldy.me/stash/cat.css");
   ```
   <sub>**^ Run this in your browser's javascript console. ^**</sub>
+  
+  **⚠ Make sure ``Quartz`` theme is applied!**
 
 </div>
 
