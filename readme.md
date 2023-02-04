@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  # 🐈 Tournament Admin - *Cat Theme*
+  # 🐈 Tournament Admin - *Cookie Jar Theme*
 
   <a href="https://api.devgoldy.me/stash/cookie.css">
     <img width="200px" src="./assets/cookie.png">
